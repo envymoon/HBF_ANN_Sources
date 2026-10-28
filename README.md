@@ -11,6 +11,9 @@
 | [docs/02_图ANN与磁盘IO.md](docs/02_图ANN与磁盘IO.md) | 图搜索 = 指针追逐；DiskANN、Starling 布局、PipeANN 流水 |
 | [docs/03_两个难题根因分析.md](docs/03_两个难题根因分析.md) | ⭐ **核心**：A/B/C 推演、四类根因、设计杠杆、待确认事实 |
 | [papers/HBFSim_笔记.md](papers/HBFSim_笔记.md) | HBFSim 精读笔记 |
+| [papers/PipeANN_笔记.md](papers/PipeANN_笔记.md) | PipeANN 精读：伪依赖、动态 W、对 HBF 的含义（问题 2 起点） |
+| [papers/Starling_笔记.md](papers/Starling_笔记.md) | Starling 精读：overlap ratio、NP-hard、BNF（问题 1 起点） |
+| [papers/HAVEN_笔记.md](papers/HAVEN_笔记.md) | HAVEN 精读：HBF 上的 IVF-PQ rerank，以及它没做的部分 |
 | [papers/参考文献.md](papers/参考文献.md) | 按优先级排列的文献清单 |
 | [ideas/00_讨论议程.md](ideas/00_讨论议程.md) | 待办与方向草稿 |
 | `assets/` | 讨论用的原始示意图 |
