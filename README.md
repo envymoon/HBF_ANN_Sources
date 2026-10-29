@@ -14,6 +14,7 @@
 | [papers/OCP_HBF规范_笔记.md](papers/OCP_HBF规范_笔记.md) | ⭐ OCP 规范精读：地址→bank 映射、读协议、SRAM、读干扰、**sense 速率才是真正的资源** |
 | [papers/HBFlex_笔记.md](papers/HBFlex_笔记.md) | HBFlex 精读：plane 负载不均、热点副本、按位置调度（可借鉴到问题 1/2） |
 | [papers/DiskGraphANN评测_笔记.md](papers/DiskGraphANN评测_笔记.md) | 外存图 ANN 全景评测：五组件分类、I/O 有效率 ≤15% |
+| [papers/CharacterizingHBF_笔记.md](papers/CharacterizingHBF_笔记.md) | HBF 参数（读能耗、写带宽、寿命）与分层/准入控制原则 |
 | [papers/PipeANN_笔记.md](papers/PipeANN_笔记.md) | PipeANN 精读：伪依赖、动态 W、对 HBF 的含义（问题 2 起点） |
 | [papers/Starling_笔记.md](papers/Starling_笔记.md) | Starling 精读：overlap ratio、NP-hard、BNF（问题 1 起点） |
 | [papers/HAVEN_笔记.md](papers/HAVEN_笔记.md) | HAVEN 精读：HBF 上的 IVF-PQ rerank，以及它没做的部分 |
