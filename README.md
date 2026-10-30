@@ -16,6 +16,7 @@
 | [papers/DiskGraphANN评测_笔记.md](papers/DiskGraphANN评测_笔记.md) | 外存图 ANN 全景评测：五组件分类、I/O 有效率 ≤15% |
 | [papers/CharacterizingHBF_笔记.md](papers/CharacterizingHBF_笔记.md) | HBF 参数（读能耗、写带宽、寿命）与分层/准入控制原则 |
 | [papers/PipeANN_笔记.md](papers/PipeANN_笔记.md) | PipeANN 精读：伪依赖、动态 W、对 HBF 的含义（问题 2 起点） |
+| [papers/DiskANN_笔记.md](papers/DiskANN_笔记.md) | DiskANN 原文精读：Vamana、定长节点布局（ID→页→bank）、BeamSearch、“W 个读≈一次读”的假设 |
 | [papers/Starling_笔记.md](papers/Starling_笔记.md) | Starling 精读：overlap ratio、NP-hard、BNF（问题 1 起点） |
 | [papers/HAVEN_笔记.md](papers/HAVEN_笔记.md) | HAVEN 精读：HBF 上的 IVF-PQ rerank，以及它没做的部分 |
 | [papers/参考文献.md](papers/参考文献.md) | 按优先级排列的文献清单 |
