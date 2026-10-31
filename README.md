@@ -17,6 +17,7 @@
 | [papers/CharacterizingHBF_笔记.md](papers/CharacterizingHBF_笔记.md) | HBF 参数（读能耗、写带宽、寿命）与分层/准入控制原则 |
 | [papers/PipeANN_笔记.md](papers/PipeANN_笔记.md) | PipeANN 精读：伪依赖、动态 W、对 HBF 的含义（问题 2 起点） |
 | [ideas/01_根因归纳与设计方案.md](ideas/01_根因归纳与设计方案.md) | **讨论稿**：统一代价模型、五个失效的 SSD 假设、四个设计洞察、分层架构草图、推进顺序 |
+| [ideas/02_演化框架接入_理解与待定问题.md](ideas/02_演化框架接入_理解与待定问题.md) | **讨论稿**：patch-evolution 框架的理解、和本仓库分析对不上的地方、运行位置、15 个待确认问题 |
 | [papers/PageANN_笔记.md](papers/PageANN_笔记.md) | PageANN：页即节点，一跳一页；页图让 bank 分配变成距离-2 着色 |
 | [papers/CAGRA_笔记.md](papers/CAGRA_笔记.md) | CAGRA：GPU 批量图搜索；随机入口消热点、批量提供并发 |
 | [papers/DiskANN_笔记.md](papers/DiskANN_笔记.md) | DiskANN 原文精读：Vamana、定长节点布局（ID→页→bank）、BeamSearch、“W 个读≈一次读”的假设 |
